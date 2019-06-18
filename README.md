@@ -1,0 +1,2 @@
+# bitcoinmono
+Copypasta cryptocurrency
